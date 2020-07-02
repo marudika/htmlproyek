@@ -1,0 +1,58 @@
+/* -- Ini Bagian Footer -- */
+.footer{
+    height:180px;
+    background-color:#438a5e;
+    color:white;
+}
+
+.footer-left{
+    float:left;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.footer-left h3{
+    line-height: 0.5;
+}
+.footer-left h4{
+    padding-top: 15px;
+    line-height: 3px;
+}
+
+.fab{
+    color:white;
+    margin-right:10px;
+}
+.fab:hover{
+    position: relative;
+    top: -3px;
+    transition: 0.2s;
+}
+.fab:active{
+    position: relative;
+    top: -3px;
+    transition: 0.2s;
+    color:#ffa931;
+}
+.footer-right{
+    float:right;
+    padding-right:50px;
+}
+.footer-right ul{
+    list-style-type: '>   ';
+    line-height: 1.5;
+    color: white;
+}
+.footer-right a{
+    color:white;
+}
+.footer-right a:hover{
+    position: relative;
+    top: -2px;
+}
+.footer-right a:active{
+    position: relative;
+    top: -2px;
+    color:#ffa931;
+}
+
+/* End of Footer/
